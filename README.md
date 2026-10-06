@@ -22,7 +22,6 @@ re
 pycountry
 geopandas
 matplotlib.pyplot
-Näytä lisää rivejä
 
 Therefore the following Python packages are required:
 
