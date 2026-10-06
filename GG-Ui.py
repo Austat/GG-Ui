@@ -98,7 +98,7 @@ def plot_world(color_map):
     - maat, jotka löytyvät color_mapista, värjätään sen mukaan
     - muut harmaalla
     """
-    world = gpd.read_file("/mnt/Raid0/Misc/Python skriptit/maps/ne_110m_admin_0_countries.shp")
+    world = gpd.read_file("./maps/ne_110m_admin_0_countries.shp")
     
     iso_col = "SOV_A3"
 
