@@ -25,7 +25,6 @@ Therefore the following Python packages are required:
 
 Shell
 pip install pycountry geopandas matplotlib
-Näytä lisää rivejä
 
 Additionally, GeoPandas requires several GIS libraries depending on the operating system.
 
