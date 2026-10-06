@@ -1,9 +1,7 @@
 # GG-Ui
-GUI for Geo-Shell
+## GUI for Geo-Shell
 
-**Here's a detailed breakdown of GG-Ui. The script appears to be a visualization tool for a GeoIP firewall configuration, displaying geoblocked countries on a world map.**
-
-Overview
+## Overview:
 
 The purpose of GG-Ui is to:
 
