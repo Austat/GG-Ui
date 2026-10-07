@@ -12,7 +12,11 @@ Read the configured inbound and outbound geoblocking country lists.
 Convert country codes from ISO-2 format (e.g., RU, CN, US) to ISO-3 format (RUS, CHN, USA).
 Display the results on a world map.
 Color countries according to their geoblocking status.
-Required Dependencies
+
+Run from the shell:
+python3 GG-Ui.py
+
+## Required Dependencies
 
 The script imports:
 
