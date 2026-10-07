@@ -1,5 +1,5 @@
 # GG-Ui
-## GUI for Geo-Shell
+## GUI for Linux Geo-Shell
 
 ## Overview:
 
