@@ -1,6 +1,8 @@
 # GG-Ui
 ## GUI for Linux Geo-Shell
 
+<img width="1736" height="940" alt="image" src="https://github.com/user-attachments/assets/6c221ebe-70bb-4674-a989-7e22946ab58d" />
+
 ## Overview:
 
 The purpose of GG-Ui is to:
