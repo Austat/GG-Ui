@@ -14,6 +14,7 @@ Display the results on a world map.
 Color countries according to their geoblocking status.
 
 Run from the shell:
+
 python3 GG-Ui.py
 
 ## Required Dependencies
